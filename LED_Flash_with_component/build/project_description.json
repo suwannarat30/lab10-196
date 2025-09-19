@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "LED_Flash_with_component",
-    "project_version":    "1",
+    "project_version":    "e555e41-dirty",
     "project_path":       "D:/lab10-196/LED_Flash_with_component",
     "idf_path":           "C:/Users/nnarat/esp/v5.5.1/esp-idf",
     "build_dir":          "D:/lab10-196/LED_Flash_with_component/build",
