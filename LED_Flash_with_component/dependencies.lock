@@ -1,0 +1,18 @@
+dependencies:
+  LED:
+    component_hash: aa0fa2f6d7ade5c17237eb5531f33a848ba44ae85161912ef36cf95af836d0fd
+    dependencies: []
+    source:
+      git: https://github.com/suwannarat30/lab10-66030196.git
+      path: 66030196/LED
+      type: git
+    version: 50f0f7a2b622ca3389092874053bd821ee37a903
+  idf:
+    source:
+      type: idf
+    version: 5.5.1
+direct_dependencies:
+- LED
+manifest_hash: 708a70302070d26882cfd1f4f1c24b464a39b2f0b32fb1c8216381189c24ac23
+target: esp32
+version: 2.0.0

@@ -1,0 +1,4 @@
+dependencies:
+  LED:
+    git: https://github.com/suwannarat30/lab10-66030196.git  # เปลี่ยนเป็น url ที่นักศึกษา push ไว้บน git
+    path: 66030196/LED
